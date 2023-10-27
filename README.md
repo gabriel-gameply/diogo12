@@ -1,11 +1,12 @@
+diogo12
+
 <html>
   <head>
     <title>primeiro site do 1c</title>
   </head>
   <style>
-    body{
+    body:#DC143C;
       background-color:#A020F0;
-    }
   </style>
   <body>
     <fieldset>
