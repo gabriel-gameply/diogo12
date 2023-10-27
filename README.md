@@ -6,6 +6,7 @@ diogo12
   </head>
   <style>
     body:#DC143C;
+    fon-
       background-color:#A020F0;
   </style>
   <body>
