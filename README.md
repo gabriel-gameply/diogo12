@@ -1,13 +1,13 @@
-diogo12
-
 <html>
   <head>
     <title>primeiro site do 1c</title>
   </head>
   <style>
-    body:#DC143C;
-    fon-
-      background-color:#A020F0;
+    body{
+      background-image:url("https://img.olhardigital.com.br/wp-content/uploads/2023/06/futebol.jpg&quot;);
+      color:#FFFF00;
+      font-family:arial;
+    }
   </style>
   <body>
     <fieldset>
